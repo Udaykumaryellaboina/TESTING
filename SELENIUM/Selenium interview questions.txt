@@ -1,0 +1,304 @@
+1) What is test automation or automation testing?
+2.2) What are the advantages of automation testing?
+3) Name some of the commonly used Automation Testing tools that are used for Functional Automation.
+4) Name some of the commonly used Automation Testing tools that are used for Non-Functional Automation.
+5.5) What is Selenium?
+66) What are the different components of Selenium?
+7) List out the names of programming languages, browsers and operating systems that are supported by Selenium.
+8.8) What are the significant changes/upgrades in various Selenium versions?
+9.9) List some of the test types that are supported by Selenium.
+10.10) What is Selenium IDE and when should i use it
+11) What do you mean by Selenese?
+12.What are the different ways of locating a web element in Selenium?
+13) How many types of WebDriver API's are available in Selenium?
+14) List out some of the Automation tools which could be integrated with Selenium to achieve continuous testing.
+15.15) What do you mean by the assertion in Selenium?
+16.16) Explain the difference between assert and verify commands?
+17) What do you mean by XPath?
+18) What is the difference between "/" and "//" in XPath?
+19) What are the different types of annotations which are used in Selenium?
+20) What are the WebDriver supported Mobile Testing Drivers?
+21. What is the difference between type keys and type commands?
+22.What is the difference between "type" and "typeAndWait" command?
+23.What is the difference between findElement() and findElements()?
+24.What is the wait? How many types of waits in selenium?
+25. What is Selenium Grid? and When should I use Selenium Grid?
+
+26.How can we launch different browsers in Selenium WebDriver?
+27.Write a code snippet to perform right-click an element in WebDriver.
+28.Write a code snippet to perform mouse hover in WebDriver.
+29.How do you perform drag and drop operation in WebDriver?
+30.What are the different methods to refresh a web page in WebDriver?
+31.Write a code snippet to navigate back and forward in browser history?
+32.How to invoke an application in WebDriver?
+33.What are the benefits of Automation Testing?
+34.How can we get a text of a web element?
+35.How to select value in a dropdown?
+36.What are the different types of navigation commands?
+37.How to deal with frame in WebDriver?
+38.How can you redirect browsing from a browser through some proxy?
+39.what is POM
+40.How to capture screenshot in WebDriver?
+41.How to type text in a textbox using Selenium?
+42. How can you find if an element is displayed on the screen?
+43. How to click on a hyper link using linkText?
+44.Why should Selenium be selected as a test tool?
+45. What are the limitations of Selenium?
+46.What is Same origin policy and how it can be handled?
+47.What do we mean by Selenium 1 and Selenium 2?
+48.How to find more than one web element in the list?
+49.What is the difference between driver.close() and driver.quit command?
+50. Can Selenium handle windows based pop up?
+51.How can we handle web based pop up?
+52. How to assert title of the web page
+53. How to capture screenshot in WebDriver?
+54.What is Junit?
+55.What are Junit annotations?
+56.What is TestNG and how is it better than Junit?
+57.)How to set test case priority in TestNG
+58.What is a framework?
+59.What are the different types of frameworks?
+60.How can I read test data from excels?
+
+61. What is the difference between POI and jxl jar?
+62.What is the difference between Selenium and QTP?
+63. Can WebDriver test Mobile applications?
+64. Can captcha be automated?
+65. What is Object Repository? How can we create Object Repository in 
+Selenium?
+66.Explain some disadvantages to manual software testing.
+67.) Does automation testing have any disadvantages?
+68.What are the differences between open source tools, vendor tools, and inhouse tools?
+69.How do you choose which automation tool is best for your specific 
+scenario?
+70.How can we get the font size, font colour, font text used for the particular 
+text on the web page use in the selenium?
+71.What is the difference between driver.get and driver.navigate().to(“URL”)?
+72. How to clear cache using selemium?
+73.How to install add on the Firefox?
+74.HOW TO RUN SELENIUM WEBDRIVER SCRIPT IN FIREFOX BROWSER USING 
+DESIREDCAPABILITIES? 
+75.How to read data from the .properties files?
+76. How to Kill all the browser at the same time?
+77.What is the difference betweet explicitly wait and implicitly wait?
+78.In XPath, I wants to do partial match on attribute value from beginning. 
+Tell me two functions using which I can do It.
+79.How to know the selected box is already selected using selenium?
+80.How to verify the text inside the text box is present or not?
+81.) How to accept exceptions in testNG?
+82.I have used findElements In my test case. It Is 
+returning NoSuchElementException when not element found. Correct me If I am 
+wrong
+83.My Firefox browser Is not Installed at usual place. How can I tell 
+FirefoxDriver to use It?
+84.How to handle Untrusted SSL certificate error in IE browser
+85.) Can we run testNG class code without using any TestNg annotation?
+86.What Is TestNG?
+
+87.Can you describe major features of TestNG?
+88.How to Install TestNG In Eclipse? How do you verify that TestNg Is Installed 
+properly In Eclipse?
+89.What are different annotations supported by TestNG ?
+90.What Is the usage of testng.xml file?
+91.How to pass parameter with testng.xml file to use It In test case?
+92.I have a test case with two @Test methods. I want to exclude one @Test 
+method from execution. Can I do It? How?
+93.Tell me syntax to skip @Test method from execution.
+94.Arrange bellow give testng.xml tags from parent to child.
+<test>
+<suite>
+<class>
+</methods>
+</classes>
+95.assertions in testng
+96.Can you tell me usage of TestNG Soft Assertion?
+97.How to write regular expression In testng.xml file to search @Test 
+methods containing "product" keyword.
+98.Which time unit we provide In time test? minutes? seconds? milliseconds? 
+or hours? Give Example
+99.What Is Parallelism In TestNG?
+100.What Is dependency test In TestNG?
+101.How to use grid and while using grid how to run webDriver on ode 
+machines?
+102.Can we use implicitly wait() and explicitly wait() together in the test case?
+103.What is the syntax of URL?
+104.What is cookies?
+105.What types of Models choose while designing the framework?
+106. What is the frame? Why we need to switch to the frame?
+107. What are the selenium exception you faced?
+108.How to use @DataProvider annotation in TestNG?
+109.How to find out the dynamic element by webdriver?
+110.What are the most common pre define functions of xpath?
+111. How to set the browser for the GRID?
+112.How to get the snapshot using selenium?
+113. How to shoot the snapshot using selenium?
+114.How to switch on the given URL in multiple windows handle?
+115.Explain the different between HTTP and HTTPS? 
+116. How do you read data from excel ?
+117. What is the alternate way to click on login button?
+118.How do you verify if the checkbox/radio is checked or not ?
+119.How do you handle alert pop-up ?
+120.Give the example for method overload in WebDriver.
+121.How do you upload a file?
+122.How do you click on a menu item in a drop down menu?
+123.How do you clear the contents of a textbox in selenium ?
+124. How to get the number of frames on a page ?
+125. How do you simulate scroll down action ?
+126. What is the command line we have to write inside a .bat file to execute a 
+selenium project when we are using testng ?
+127.How to check if a text is highlighted on the page ?
+128.How do u get the width of the textbox ?
+129. How to check whether a text is underlined or not ?
+130.What is the use of getOptions() method ?
+131.What is the use of deSelectAll() method ?
+132.Which is the super interface of webdriver ?
+133. How to enter text without using sendkeys() 
+134. There is a scenario whenever "Assert.assertEquals()" function fails 
+automatically it has to take screenshot. How can you achieve this ?
+135.How do you handle https website in selenium
+136. How do you send ENTER/TAB keys in webdriver?
+137. While explaining the framework, what are points which should be covered ?
+138. How to switch back from a frame ?
+139.How to type text in a new line inside a text area ?
+140. What is the use of AutoIt tool ?
+141.How to press Shift+Tab ?
+142.What is the use of contextClick() ?
+143.What is the difference b/w getWindowHandles() and getWindowHandle() ?
+144.How do you accommodate project specific methods in your framework ?
+145.What are different components of your framework 
+146.Count the number of links in a page.
+147. What is the difference between before method and before class ?
+148.What are the different attributes for @Test annotation?
+149.What is objective repository ?
+150.What is testing strategy ?
+151.Difference between Web driver listener and TestNG Listener.
+152.Why we refer Firefox driver to the web driver inheritance.
+153.What is the difference between thread.Sleep() and selenium. Set Speed 
+("2000")?
+154.In what situation selenium finding element get fails?
+155. How we can retrieve the dynamically changing Ids?
+156.What is the basic use of Firefox profiles and how can we use them using 
+selenium?
+157.Customize the name of file going to be downloaded?
+158.How to handle internationalisation throughweb driver?
+159. How to overcome same origin policy through web driver?
+160. Difference between flex and flash application.
+161.What is Error Collector in TestNG? What is its use?
+162. How to run tests in multiple browser parallel? Is there any other option 
+other than selenium grid?
+163.) How to prepare Customized html Report using TestNG in hybrid 
+framework.
+164. How the TestNG interacts with Selenium Core? Explain me steps and internal architecture?"What is TestNG?
+165. Is it possible test web services using selenium?
+166.How to refresh a page without using context click
+167.Can you send a code for printing in selenium?
+168.How to find broken images in a page using Selenium Web driver.
+169. How to handle Ajax popup window?
+170. How to handle auto complete box in web driver?
+171.How to get the name of browser using Web Driver?
+172.How to pass parameters from testng.xml into test case.
+173. How to get text from captcha image??
+174. Is there a way to click hidden LINK in web driver?
+175.) How to disable cookies in browser
+176.We have heard about frameworks well it can be broadly classified into 
+these TDD, BDD and ATDD frameworks .What’s the Difference?
+177. How to change user agent in Firefox by selenium web driver.
+178. How to handle network latency using selenium? 
+179.) How to work with radio button in web driver?
+180. Detail about TestNG Test Output folder.
+181. Can we run group of test cases using TestNG?
+182.In what all case we have to go for “JavaScript executor”.
+183. What is actions class in web driver?
+184.Differences between jxl and ApachePOI.
+185. How to ZIP files in Selenium with an Example?
+186. How to do Applet testing using selenium? 
+187. If Default port no is busy how to change port no?
+188. I want to find the location of ""b"" in the below code, how can I find out without using xpath, name,id, csslocator, index.
+189.List out the test types that are supported by Selenium?
+190.While using click command can you use screen
+coordinate?
+191.Why testers should opt for Selenium and not QTP?
+192.What is heightened privileges browsers?
+193.What are the features of TestNG and list some of the
+functionality in TestNG which makes it more effective?
+194.Explain what are the JUnits annotation linked with
+Selenium?
+195.Explain how you can login into any site if it’s showing any
+authentication popup for password and username?
+196.Explain what is the difference between Borland Silk and
+Selenium?
+197.Explain how Selenium Grid works?
+198.Can we use Selenium grid for performance testing?
+199. List the advantages of Webdriver over Selenium Server?
+200.Mention what are the capabilities of Selenium
+WebDriver or Selenium 2.0?
+201.While injecting capabilities in webdriver to perform tests
+on a browser which is not supported by a webdriver what is
+the limitation that one can come across?
+202.Explain how you can find broken images in a page using
+Selenium Web driver?
+203.Which web driver implementation is fastest?
+204. What is the command that is used in order to display the
+values of a variable into the output console or log?
+205.Explain how you can use recovery scenario with
+Selenium
+206. Explain how to iterate through options in test script?
+207.How can you prepare customized html report using
+TestNG in hybrid framework?
+208.Explain Cucumber shortly.
+209.What language is used by Cucumber? 
+210.What is meant by a feature file?
+211.What are the various keywords that are used in Cucumber for writing a scenario?
+212.What is the purpose of a Scenario Outline in Cucumber? 
+213.What programming language is used by Cucumber? 
+214.What is the purpose of the Step Definition file in Cucumber?
+215.What are the major advantages of the Cucumber framework? 
+216.Provide an example of a feature file using the Cucumber framework
+217.Provide an example of a Scenario Outline using the Cucumber framework. 
+218.What is the purpose of the Behaviour Driven Development (BDD) 
+methodology in the real world?
+219. What is the limit for the maximum number of scenarios that can be included in 
+the feature file? 
+220. What is the use the of Background keyword in Cucumber? 
+221. What symbol is used for parameterization in Cucumber?
+222.What is the purpose of Examples keyword in Cucumber?
+223.Provide an example of a step definition file in Cucumber.
+224.What is the purpose of the Cucumber Options tag?
+225.How can Cucumber be integrated with Selenium WebDriver?
+226. When is Cucumber used in real-time? 
+227.What is the use of Behavior Driven Development in Agile methodology?
+228.Explain the purpose of keywords that are used for writing a scenario in 
+Cucumber. 
+229.What is the name of the plugin that is used to integrate Eclipse with Cucumber?
+230.What is the meaning of the TestRunner class in Cucumber?
+231. Provide an example of the TestRunner class in Cucumber. 
+232.What is the starting point of execution for feature files? 
+233. Should any code be written within the TestRunner class?
+234. What is the use of features property under the Cucumber Options tag?
+235.What is the use of glue property under the Cucumber Options tag?
+236. What is Cucumber? Why is it used?
+237.What are the two files required to execute a Cucumber test scenario?
+238.What are the differences between Jbehave and Cucumber?
+239.What do you understand by test harness in Cucumber? 
+240.What is the difference between RSpec and Cucumber? When should we use 
+RSpec and when to use Cucumber? 
+241.What is the difference between Selenium and Cucumber? 
+242.Why we have to use Cucumber with Selenium?
+243.) What do you understand by TDD, and what are the different processes used in 
+TDD? 
+244.What are the similarities between BDD and TDD?
+245.What is Functional Testing ?
+246.What is Usability Testing ?
+247.Interface Testing
+248.Database Testing
+249.What is Compatibility Testing
+250.What is Performance Testing ?
+251.Security Testing
+
+
+
+
+
+
+
+
